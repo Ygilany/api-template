@@ -9,7 +9,7 @@ Service Template
 ###1. Clone repository  
 
 ````
-
+git@github.com:Ygilany/api-template.git
 ````
 
 ###2. Copy config.example.json to config.json and update settings
