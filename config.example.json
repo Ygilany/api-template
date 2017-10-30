@@ -1,0 +1,18 @@
+{
+	"server": {
+		"port": APPLICATION_PORT_NUMBER
+	},
+	"database": {
+		"name": DATABASE_NAME,
+		"host": IP_OR_HOSTNAME_OF_DATABASE,
+		"port": PORT_OF_DATABASE,
+		"username": DATABASE_USERNAME,
+		"password": DATABASE_PASSWORD,
+    "dialect": DATABASE_DIALECT,
+		"domain": DATABASE_DOMAIN,
+		"instanceName": DATABASE_INSTANCE_NAME
+	},
+	"services": {
+		SERVICE_NAME: SERVICE_HOSTNAME
+	}
+}
